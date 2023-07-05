@@ -1,4 +1,9 @@
 更详细的使用方法参见具体文件夹下的README.md，这里只是简单介绍一下各个文件夹的作用。
+## lstm-gru
+我们自己搭建的lstm/gru模型
+
+框架：torch
+
 ## transfomer
 我们自己搭建的transformer模型
 
