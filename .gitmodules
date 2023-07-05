@@ -1,0 +1,3 @@
+[submodule "Chinese-Vicuna"]
+	path = Chinese-Vicuna
+	url = https://github.com/Facico/Chinese-Vicuna.git
